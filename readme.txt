@@ -1,4 +1,4 @@
-=== Wordpress Domains ===
+=== WP Domains ===
 Contributors: ecanuto
 Donate link: https://github.com/ecanuto/wp-domains
 Tags: admin, domain, url
